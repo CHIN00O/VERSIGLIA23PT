@@ -1,0 +1,20 @@
+<html>
+    <head>	
+		<title>FAVORITE BANDS</title>
+	</head>
+<body bgcolor="skyblue">
+	<table width=800 height=500 border=2 align=center>
+<tr>
+<td colspan=2 align=center><font size=10><b>FAVORITE BANDS<b></font></td>
+</tr>
+<tr>
+<td>
+<p align=center><font size=5><br>
+My favorite bands are deftones, 311, incubus, head automatica, blur, oasis.<br>
+
+<a href="MAINPAGE.html">MAIN PAGE</a></font></br></td>
+
+</tr>
+</table>
+</body>
+</html>
